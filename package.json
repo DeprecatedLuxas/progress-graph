@@ -1,0 +1,16 @@
+{
+  "name": "progress-graph",
+  "version": "1.0.0",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "author": "Lucas Norgaard <lucasnrgaard@gmail.com>",
+  "scripts": {
+    "prepublish": "tsc"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "@types/node": "^16.7.10",
+    "ts-node": "^10.2.1",
+    "typescript": "^4.4.2"
+  }
+}
