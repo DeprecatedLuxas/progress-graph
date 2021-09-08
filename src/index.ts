@@ -10,3 +10,4 @@ export default function makeGraph(percentage: number): string {
   return bar.substr(0, 25);
 }
 
+console.log(makeGraph(13.06));
